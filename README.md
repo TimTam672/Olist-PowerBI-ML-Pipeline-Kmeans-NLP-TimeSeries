@@ -1,6 +1,6 @@
 # Olist E-Commerce Data Analysis: End-to-End Diagnostic & Predictive Framework
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?style=flat&logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=flat&logo=powerbi)](https://powerbi.microsoft.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-K--Means_Clustering-F7931E?style=flat&logo=scikit-learn)](https://scikit-learn.org/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-BERTopic_%2B_NLLB--200-FFD21E)](https://huggingface.co/)
